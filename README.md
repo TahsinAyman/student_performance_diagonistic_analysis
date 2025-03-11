@@ -1,12 +1,10 @@
-# 🌄 CUST Purchase Data Analysis
+# 🌄 Student Performance Correlation Analysis
 
 - [Overview](#-overview)
 - [Tools Used](#-tools-used)
 - [Files](#️-files)
+- [Correlation Analysis](#-correlation-analysis)
 - [How to Run](#how-to-run-)
-- [Table Structure](#-table-structure)
-- [End Result](#-end-result)
-
 
 ## 🚀 Overview
 
