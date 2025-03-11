@@ -43,9 +43,7 @@ Key points about correlation analysis:
         
         It is computed using the formula:
         
-        $$
-        r = \frac{\sum (x_i - \overline{x})(y_i - \overline{y})}{\sqrt{\sum (x_i-\overline{x})^2 \cdot \sum (y_i-\overline{y})^2}}
-        $$
+        ![formula](./assets/formula.png)
         
         Here, $x_i$ and $y_i$  are the individual data points, while $\overline{x}$ and  $\overline{y}$ represent the means of the x and y datasets respectively.
         
