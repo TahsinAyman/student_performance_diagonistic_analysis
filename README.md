@@ -50,6 +50,44 @@ Key points about correlation analysis:
     
     The sign of r indicates the direction of the relationship (positive or negative), and the magnitude (absolute value) indicates the strength of the linear association.
 
+### 🔥Linear Regression Analysis
+
+Regression analysis is a statistical technique that models the relationship between a dependent variable (also called the outcome or response) and one or more independent variables (predictors). The main goals of regression analysis are to:
+
+1. **Quantify Relationships:**
+    - It measures how changes in independent variables affect the dependent variable.
+    - For example, in simple linear regression, the relationship follows this equation:
+    where:
+        
+        $$
+        y=α+βx
+        $$
+        
+        - α represents the intercept (y's value when x equals 0),
+        - β represents the slope (the change in y for each one-unit increase in x).
+
+### Getting the Data
+
+$$
+β = \frac{\sum (x_i - \overline{x})(y_i - \overline{y})}{\sum (x_i-\overline{x})^2 }
+$$
+
+$$
+α=\overline{y}−β\overline{x}
+$$
+
+$x$ is the independent variable (which is what we observe to see the output or used for comparison)
+
+$y$ is the dependent variable (which is our goal)
+
+$\overline{x}$ is the mean of $x$
+
+$\overline{y}$ is the mean of $y$
+
+$x_i$ represents each value in $x$
+
+$y_i$ represents each value in $y$
+
 ### How to Run 👈
 - Clone the repository using 
     ```bash
