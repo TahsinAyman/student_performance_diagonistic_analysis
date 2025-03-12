@@ -1,4 +1,4 @@
-# 🌄 Student Performance Correlation Analysis
+# 🌄 Student Performance Diagnostic Analysis
 
 - [Overview](#-overview)
 - [Tools Used](#-tools-used)
