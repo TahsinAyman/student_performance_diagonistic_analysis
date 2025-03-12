@@ -51,7 +51,7 @@ Key points about correlation analysis:
     
     The sign of r indicates the direction of the relationship (positive or negative), and the magnitude (absolute value) indicates the strength of the linear association.
 
-### 🔥Linear Regression Analysis
+### 🔥 Linear Regression Analysis
 
 Regression analysis is a statistical technique that models the relationship between a dependent variable (also called the outcome or response) and one or more independent variables (predictors). The main goals of regression analysis are to:
 
