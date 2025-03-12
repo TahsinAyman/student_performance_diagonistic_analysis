@@ -8,7 +8,8 @@
 
 ## 🚀 Overview
 
-This project involves analyzing the correlation between student grades and the hours they studied. The analysis is performed using Python, with a focus on data manipulation and visualization using libraries such as Pandas and Jupyter Notebook. The primary goal is to identify patterns and correlations within the data that can inform educational strategies and interventions. The project includes steps for data cleaning, exploratory data analysis, and correlation analysis to understand the relationships between study hours and academic performance.
+This project involves analyzing the correlation between student grades and the hours they studied and linear regression analysis for predicting the amount of marks a student might get based on the hour they studied. The analysis is performed using Python, with a focus on data manipulation and visualization using libraries such as Pandas and Jupyter Notebook. The primary goal is to identify patterns and correlations within the data that can inform educational strategies and interventions. The project includes steps for data cleaning, exploratory data analysis, and correlation analysis to understand the relationships between study hours and academic performance.
+
 
 ## 💼 Tools Used
 
