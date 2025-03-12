@@ -4,7 +4,9 @@
 - [Tools Used](#-tools-used)
 - [Files](#️-files)
 - [Correlation Analysis](#-correlation-analysis)
-- [How to Run](#how-to-run-)
+- [Linear Regression Analysis](#-linear-regression-analysis)
+- [Insight](#-insight)
+- [How to Run 👈](#how-to-run-)
 
 ## 🚀 Overview
 
@@ -65,8 +67,6 @@ Regression analysis is a statistical technique that models the relationship betw
         - α represents the intercept (y's value when x equals 0),
         - β represents the slope (the change in y for each one-unit increase in x).
 
-### Getting the Data
-
 ```math 
 β = \frac{\sum (x_i - \overline{x})(y_i - \overline{y})}{\sum (x_i-\overline{x})^2 }
 ```
@@ -86,6 +86,9 @@ $\overline{y}$ is the mean of $y$
 $x_i$ represents each value in $x$
 
 $y_i$ represents each value in $y$
+
+### 📖 Insight
+![chart](./assets/insight.png)
 
 ### How to Run 👈
 - Clone the repository using 
