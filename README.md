@@ -41,8 +41,6 @@ Key points about correlation analysis:
 - **Interpretation:**
     - **Calculation:**
         
-        It is computed using the formula:
-
         $$
         r = \frac{\sum (x_i - \overline{x})(y_i - \overline{y})}{\sqrt{\sum (x_i-\overline{x})^2 \cdot \sum (y_i-\overline{y})^2}}
         $$
